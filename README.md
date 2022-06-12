@@ -18,7 +18,7 @@ $ npm run generate
 ```
 ## Special Direction
 
-Just clone this project and delete the unessesary file from `pages` directory. Keep the file index.vue. also keep the the folder `layout'.  
+Just clone this project and delete the unessesary file from `pages` directory. Keep the file index.vue. also keep the the folder `layout`.  
 
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
